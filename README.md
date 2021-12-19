@@ -4,8 +4,8 @@ This repo uses `KDL` to solve the kinematics of the robot.
 
 ## Dependencies and Library
 
-`kdl_parser`\
-`orocos_kdl`
+`kdl_parser` https://github.com/ros/kdl_parser.git \
+`orocos_kdl` https://github.com/orocos/orocos_kinematics_dynamics.git
 
 ## Build instructions
 
