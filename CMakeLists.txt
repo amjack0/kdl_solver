@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 project(kdl_solver)
 
-find_package(kdl_parser)
+find_package(kdl_parser REQUIRED)
 
 find_package(orocos_kdl REQUIRED)
 IF (orocos_kdl_FOUND)
