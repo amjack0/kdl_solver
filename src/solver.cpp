@@ -83,7 +83,6 @@ public:
     cout << "[RobotSolver] yaw: " << yaw << endl;
   }
 };
-
 int main(int argc, char **argv)
 {
   RobotSolver robot("forward kinematics solver");
